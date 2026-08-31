@@ -1,0 +1,4 @@
+in python you can learn about loops, functions, and data structures.
+in python you can also learn about file handling,
+in python you can learn exception handling
+in python you can learn object-oriented programming.
